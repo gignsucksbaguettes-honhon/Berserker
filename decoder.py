@@ -7,7 +7,7 @@ print(baguette)
 print("Crypter has been defused!, Counter Terrorists win!")
 
 '''
-if for some reason it fails to difuse, replace the decode function keyword with a print statement
+if for some reason it fails to defuse, replace the decode function keyword with a print statement
 
 '''
 
